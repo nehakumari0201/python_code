@@ -1,0 +1,13 @@
+names=['neha','kavita','mamta','amit','rambabu']
+print(names[0])
+print(names[1])
+print(names[2])
+print(names[3])
+print(names[4])
+//access the element of the list and add some message to it//
+names=['neha','kavita','mamta','amit','rambabu']
+print("hello everyone i m "+names[0]+"")
+print("hello everyone i m "+names[1]+"")
+print("hello everyone i m "+names[2]+"")
+print("hello everyone i m "+names[3]+"")
+print("hello everyone i m "+names[4]+"")
